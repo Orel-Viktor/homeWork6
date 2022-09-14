@@ -8,6 +8,8 @@ let menu = {
   title: "My menu"
   
 }
+console.log(menu)
+
  for (let prop in menu){
   if (typeof menu[prop] == 'number'){
     menu[prop] *= 2
