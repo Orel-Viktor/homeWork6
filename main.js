@@ -21,6 +21,7 @@ console.log(menu)
  delete menu.height
  menu.title = 'Clear'
 
+ console.log (menu)   
  console.log (menu)
 
 
